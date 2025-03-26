@@ -1,11 +1,11 @@
-<img width="1448" alt="Screenshot 2025-03-26 at 10 04 49 PM" src="https://github.com/user-attachments/assets/73f8dac8-863e-4af9-bf93-8439ed61f037" /># Expense_Tracker
-Expense Tracker App 
 
-#Overview 
+# Expense Tracker App<br>
+
+# Overview 
 
 The Expense Tracker App is a Flask-based web application that helps users manage their expenses and income efficiently.  It provides a dashboard with daily spending analysis using graphs and an AI Insights feature powered by Llama 3 via Ollama.  This AI feature evaluates savings and spending patterns, offering insightful financial suggestions.
 
-#Features 
+# Features 
 
 1.Add Expenses & Income: Manually enter transactions categorized under food, clothes, transportation, and more. <br>
 
@@ -13,24 +13,24 @@ The Expense Tracker App is a Flask-based web application that helps users manage
 
 3.AI Insights: Analyze financial data with Llama 3 through Ollama to get spending summaries and suggestions. <br>
 
-#Installation 
+# Installation 
 
 Prerequisites 
 
 Ensure you have Python installed on your system. Then, install the necessary packages using pip: 
 <br>
-$pip install flask<br>
-$pip install ollama<br>
-$pip install SQLAlchemy<br>
-$pip install wtforms<br>
+$ pip install flask<br>
+$ pip install ollama<br>
+$ pip install SQLAlchemy<br>
+$ pip install wtforms<br>
 
-#Running the Application 
+# Running the Application 
 
 Once the dependencies are installed, run the application with: 
 <br>
-$python run.py<br>
+$ python run.py<br>
 
-#AI Insights Feature 
+# AI Insights Feature 
 
 The AI Insights button fetches all financial data and evaluates savings versus spending trends using Llama 3 integrated with Ollama.  This feature provides: 
 <br>
@@ -50,7 +50,7 @@ The AI Insights button fetches all financial data and evaluates savings versus s
 
 
 
-#License 
+# License 
 
 This project is open-source and free to use. 
 
