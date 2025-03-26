@@ -7,7 +7,7 @@ The Expense Tracker App is a Flask-based web application that helps users manage
 
 # Features 
 
-1.Add Expenses & Income: Manually enter transactions categorized under food, clothes, transportation, and more. <br>
+1.Add Expenses & Income: Enter transactions categorized under investment, salary, rent etc. <br>
 
 2.Daily Graphical Analysis: Visual representation of expenses and income trends on the dashboard. <br>
 
