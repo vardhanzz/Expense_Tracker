@@ -1,4 +1,4 @@
-
+<img width="1283" alt="Screenshot 2025-04-08 at 10 53 23 PM" src="https://github.com/user-attachments/assets/1bc7594f-51be-4593-b952-40e647e322ab" />
 # Expense Tracker App<br>
 
 # Overview 
@@ -34,19 +34,24 @@ $ python run.py<br>
 
 The AI Insights button fetches all financial data and evaluates savings versus spending trends using Llama 3 integrated with Ollama.  This feature provides: 
 <br>
-1.Monthly spending summaries <br>
+1. Monthly spending summaries <br>
 
-2.Suggestions for better money management <br>
+2. Suggestions for better money management <br>
 
-3.Future investment recommendations <br>
+3. Future investment recommendations <br>
 
-<img width="1448" alt="Screenshot 2025-03-26 at 10 04 49 PM" src="https://github.com/user-attachments/assets/3cf3c939-494d-4cf8-8401-aa701164aa4c" /><br>
+<img width="1283" alt="Screenshot 2025-04-08 at 10 53 23 PM" src="https://github.com/user-attachments/assets/0f793bcc-1ffd-42f7-9c72-527c7cb83f2d" /><br>
 
-<img width="1454" alt="Screenshot 2025-03-26 at 10 05 13 PM" src="https://github.com/user-attachments/assets/8a237fc9-42a7-4195-9d93-1513d1fc8608" /><br>
+<img width="1441" alt="Screenshot 2025-04-09 at 11 53 05 PM" src="https://github.com/user-attachments/assets/3ac5e000-82b5-4aee-991c-8e2213843940" /><br>
 
-<img width="1377" alt="Screenshot 2025-03-26 at 10 06 07 PM" src="https://github.com/user-attachments/assets/d5441a24-bc50-40ee-9d0a-f9ab4870011a" /><br>
+<img width="1467" alt="Screenshot 2025-04-09 at 11 52 00 PM" src="https://github.com/user-attachments/assets/402a6d0d-57ff-491c-861e-70495652b0a8" /><br>
 
-<img width="1456" alt="Screenshot 2025-03-26 at 10 06 28 PM" src="https://github.com/user-attachments/assets/a23acea1-e886-4025-9b78-38fb27310451" /><br>
+<img width="1404" alt="Screenshot 2025-04-09 at 11 52 44 PM" src="https://github.com/user-attachments/assets/34aa8fbe-7a0c-45af-8c85-70242daa9c72" /><br>
+
+
+
+
+
 
 
 
