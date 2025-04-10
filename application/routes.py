@@ -5,6 +5,7 @@ from application.models import IncomeExpenses
 import json
 import ollama  # Import Ollama for Llama 3
 
+
 @app.route('/')
 def index():
     entries = IncomeExpenses.query.order_by(IncomeExpenses.date.desc()).all()
