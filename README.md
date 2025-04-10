@@ -1,4 +1,4 @@
-<img width="1283" alt="Screenshot 2025-04-08 at 10 53 23 PM" src="https://github.com/user-attachments/assets/1bc7594f-51be-4593-b952-40e647e322ab" />
+
 # Expense Tracker App<br>
 
 # Overview 
