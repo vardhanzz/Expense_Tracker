@@ -19,10 +19,12 @@ Prerequisites
 
 Ensure you have Python installed on your system. Then, install the necessary packages using pip: 
 <br>
-$ pip install flask<br>
-$ pip install ollama<br>
-$ pip install SQLAlchemy<br>
-$ pip install wtforms<br>
+<code>
+ pip install flask<br>
+ pip install ollama<br>
+ pip install SQLAlchemy<br>
+ pip install wtforms<br>
+</code>
 
 # Running the Application 
 
